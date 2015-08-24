@@ -3,10 +3,14 @@
  */
 public class Cal {
     double tot=0;
+<<<<<<< HEAD
     public double sum(double a,double b){
         tot=a+b;
         return tot;
     }
+=======
+    //sum method deleted 
+>>>>>>> d87bda1bd2c636cc92ea81ba922a30d3c7a80c08
     public double sub(double a,double b){
         tot=a-b;
         System.out.println("_____________________________________");
