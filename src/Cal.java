@@ -3,11 +3,7 @@
  */
 public class Cal {
     double tot=0;
-    public double sum(double a,double b){
-        tot=a+b;
-        System.out.println("_____________________________________");
-        return tot;
-    }
+    //sum method deleted 
     public double sub(double a,double b){
         tot=a-b;
         System.out.println("_____________________________________");
